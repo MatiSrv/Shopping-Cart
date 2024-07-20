@@ -14,6 +14,26 @@ This project is a full-stack e-commerce shopping cart application. It uses Sprin
   - Angular
 - **Database:**
   - MySQL
+ 
+## Project Scope
+
+The application includes the following features:
+
+- **User Authentication and Authorization:**
+  - User login and authentication
+  - JWT token management
+  - Secure API endpoints with Spring Security
+- **Product Management:**
+  - Retrieve all products
+  - Retrieve a product by ID
+- **Shopping Cart Management:**
+  - Retrieve a user's shopping cart
+  - Add a product to the shopping cart
+  - Remove a product from the shopping cart
+  - Clear the shopping cart
+  - Update the quantity of a product in the shopping cart
+- **User Sessions:**
+  - User logout
 
 ## Features
 
