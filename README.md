@@ -42,3 +42,31 @@ The application includes the following features:
 - CRUD operations for products, users, and orders
 - Shopping cart management
 - Comprehensive unit tests with JUnit and Mockito
+
+## Screenshots
+
+Here are some screenshots of the application:
+
+### Login
+![Login](img/login.png)
+
+### Home - Products
+![Home](img/home.png)
+
+### Product Detail
+![Product Detail](img/product-detail.png)
+
+### Shopping Cart
+![Cart](img/cart.png)
+
+### Swagger - Products Endpoints
+![Swagger Products](img/products-endpoints.png)
+
+### Swagger - Auth Endpoints
+![Swagger Auth](img/auth-endpoints.png)
+
+### Swagger - Cart Endpoints
+![Swagger Cart](img/cart-endpoints.png)
+
+### Object Schemas
+![Schemas](img/schemas.png)
